@@ -13,5 +13,8 @@ UCLASS()
 class UE4_UNFORGIVEN_API AUE4_UnforgivenGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+
+public:
+	AUE4_UnforgivenGameModeBase();
+
 };
